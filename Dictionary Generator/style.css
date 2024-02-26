@@ -1,0 +1,33 @@
+body {
+    background-color: #131b2b;
+    padding-top: 50px;
+  }
+.container {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px 40px;
+}
+.form-group {
+    margin-bottom: 20px;
+    display: grid;
+}
+.result {
+    margin-top: 20px;
+}
+
+.form-control{
+    width: 20%;
+    
+    height: 60vh;
+}
+
+.phonetic {
+    font-style: italic;
+    color: #666;
+}
+
+audio {
+    vertical-align: middle;
+    margin-left: 10px;
+}
